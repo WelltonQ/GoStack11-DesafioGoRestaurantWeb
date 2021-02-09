@@ -95,4 +95,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para
 
 ---
 
+<p align="center">
+<img alt="DesafioGoFinancesWeb" src="https://user-images.githubusercontent.com/12499627/107297041-4ce67900-6a51-11eb-92c5-bd567f7ab2dd.png" />
+</p>
+
 ✔ By Wellton Quirino, [Linkedin](https://www.linkedin.com/in/welltonquirino95/)
